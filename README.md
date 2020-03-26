@@ -31,17 +31,35 @@ As instruções dadas neste arquivo serão todas feitas com o `npm`, portanto, �
 
 ## :on: Inicialização do projeto 
 
-Dentro da pasta `backend`, dentro do Terminal/CMD, digite o seguinte comando:
+Dentro da pasta `backend`, no Terminal/CMD, digite o seguinte comando:
 
 ```
 npm start
 ```
 
-Dentro da pasta `web`, dentro do Terminal/CMD, digite o seguinte comando:
+Dentro da pasta `web`, no Terminal/CMD, digite o seguinte comando:
 
 ```
 npm start
 ```
+
+Dentro da pasta `mobile`, no Terminal/CMD, digite o seguinte comando:
+
+```
+expo start
+```
+
+## :warning: Troubleshooting
+
+Caso o comando de inicialização do Expo não funcione, isso significa que provavelmente você ainda não tem o `expo-cli` instalado. Para realizar a instalação do mesmo, digite o seguinte comando:
+
+```
+npm install -g expo-cli
+```
+
+Logo após isso, reinicie seu Terminal/CMD e digite o comando de inicialização do Expo novamente.
+
+Caso ainda estiver tendo problema, cheque o [guia de resolução de problemas comuns do Expo](https://github.com/Rocketseat/expo-common-issues).
 
 ## :ballot_box_with_check: To-do List
 
@@ -49,6 +67,7 @@ Semana OmniStack:
   - Aula 1 - Conhecendo a semana OmniStack :heavy_check_mark:
   - Aula 2 - Construindo a base da aplicação :heavy_check_mark:
   - Aula 3 - Construindo a interface web :heavy_check_mark:
+  - Aula 4 - Desenvolvendo o app mobile :heavy_check_mark:
 
 Extras:
   - Página de erro 404 (web) :heavy_check_mark:
