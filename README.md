@@ -72,13 +72,13 @@ Semana OmniStack:
 
 Extras:
   - Página de erro 404 (web) :heavy_check_mark:
+  - Efeito de loading com skeleton effect (web) :heavy_check_mark:
   - Responsividade (web) :x:
   - Máscara de campo (web) :x:
   - Validação de incidents e de login (backend) :x:
   - Realizar testes restantes (backend) :x:
   - Fazer testes (web/mobile) :x:
-  - Efeito de loading com shimmer effect (web) :x:
-  - Efeito de loading com shimmer effect e carregamento no fim da lista (mobile) :x:
+  - Efeito de loading com skeleton effect e carregamento no fim da lista (mobile) :x:
 
 ## :mailbox_with_mail: Licença
 

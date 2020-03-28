@@ -1,0 +1,26 @@
+.skeleton-container .skeleton-title {
+  margin-top: 80px;
+  margin-bottom: 24px;
+}
+
+.skeleton-container ul {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 24px;
+  list-style: none;
+}
+
+.skeleton-container ul li {
+  background: #FFF;
+  padding: 24px;
+  border-radius: 8px;
+  position: relative;
+}
+
+.skeleton-container ul li .item-group .skeleton-item {
+  margin: 10px 0;
+}
+
+.skeleton-container ul li .item-group + .item-group {
+  margin-top: 32px;
+}
