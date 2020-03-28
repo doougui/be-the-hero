@@ -68,9 +68,17 @@ Semana OmniStack:
   - Aula 2 - Construindo a base da aplicação :heavy_check_mark:
   - Aula 3 - Construindo a interface web :heavy_check_mark:
   - Aula 4 - Desenvolvendo o app mobile :heavy_check_mark:
+  - Aula 5 - Funcionalidades avançadas :heavy_check_mark:
 
 Extras:
   - Página de erro 404 (web) :heavy_check_mark:
+  - Responsividade (web) :x:
+  - Máscara de campo (web) :x:
+  - Validação de incidents e de login (backend) :x:
+  - Realizar testes restantes (backend) :x:
+  - Fazer testes (web/mobile) :x:
+  - Efeito de loading com shimmer effect (web) :x:
+  - Efeito de loading com shimmer effect e carregamento no fim da lista (mobile) :x:
 
 ## :mailbox_with_mail: Licença
 
